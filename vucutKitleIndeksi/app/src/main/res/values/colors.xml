@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1fc0d2</color>
+    <color name="colorPrimaryDark">#108d9b</color>
+    <color name="colorAccent">#FF0001</color>
+
+    <color name="cokzayif">#279c10</color>
+    <color name="zayif">#11bfa5</color>
+    <color name="ideal">#bf0fc2</color>
+    <color name="birazideal">#b71203</color>
+    <color name="cok">#1117bf</color>
+    <color name="asiricok">#86b317</color>
+    <color name="risk">#6e14be</color>
+    <color name="doktortedavisi">#11bfa5</color>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Vücut Kitle İndeksi</string>
+    <string name="bay">Bay</string>
+    <string name="bayan">Bayan</string>
+    <string name="boy_tv">Boy</string>
+    <string name="kilo_tv">Kilo</string>
+    <string name="cinsiyet">Cinsiyet</string>
+    <string name="ideal_kilo_tv">İdeal Kilo</string>
+    <string name="durum">Durum</string>
+
+    <string name="cokzayif">Çok Zayıf Durumdasınız!</string>
+    <string name="zayif">Zayıf Durumdasınız!</string>
+    <string name="ideal">İdeal Kilo Durumundasınız!</string>
+    <string name="normaldenfazla">Normalden Biraz Fazla Durumdasınız!</string>
+
+    <string name="asiri">Aşırı Kilolu Durumdasınız!</string>
+    <string name="cokasiri">Çok Aşırı Kilolu Durumdasınız!</string>
+    <string name="riskdurumu">Yüksek Risk Taşıyacak Durumdasınız!</string>
+
+    <string name="superkilolu">Hastalık Riski Taşıyacak Durumdasınız!</string>
+</resources>
